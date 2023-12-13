@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: #41091b;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 18%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 40px 16px;
+    font-size: 24px;
+}
+
+.banda-imagem{
+    width: 25%;
+}
+
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.escola{
+    background-image: linear-gradient(#41091b,#c7abb4);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-conteudo{
+    width: 35%;
+}
+
+.grupo-titulo{
+    padding: 24px 0;
+}
+
+.imagem-mano-brow{
+    width: 120px;
+}
+
+.participante-icone{
+    width: 24px;
+}
+
+.participante-div{
+    text-align: center;
+}
+
+.participantes-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.Todos-participantes{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.imagem-kl-jay{
+    width: 140px;
+}
+
+.imagem-ice-blue{
+    width: 120px;
+}
+
+.imagem-edi-rock{
+    width: 140px;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
